@@ -1,3 +1,7 @@
+## Management System
+머터리얼 디자인을 테스트 해보기 위한 리엑트 웹 구성
+(feat. 광남)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
